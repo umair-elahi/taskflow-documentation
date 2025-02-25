@@ -1,4 +1,4 @@
-# Aetasaal 2.0 - Development Documentation
+# Aetasaal 2.0 - Development Guide
 
 ## 📌 Overview
 Aetasaal 2.0 is a web application divided into two segments:  
